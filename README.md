@@ -14,6 +14,6 @@ obs: para mais detalhes ver arquivo lista_pacotes.txt
 ## comandos para rodar o projeto
 
 ```
-    task docs
-    task run
+task docs
+task run
 ```
