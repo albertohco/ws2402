@@ -17,3 +17,6 @@ obs: para mais detalhes ver arquivo lista_pacotes.txt
 task docs
 task run
 ```
+
+link do repositório original
+https://github.com/lvgalvao/workshop_02_aovivo
