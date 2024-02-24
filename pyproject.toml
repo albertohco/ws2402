@@ -1,0 +1,3 @@
+[tool.taskipy.tasks]
+docs = "mkdocs serve"
+run = "python app/etl.py"
